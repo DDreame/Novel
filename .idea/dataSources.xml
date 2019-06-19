@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="dataSource" uuid="9e64ba9b-a728-4ad8-b98b-f95b4481f23c">
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <configured-by-url>true</configured-by-url>
+      <remarks>jakarta commons-dbcp
+
+D:/Novel/web/src/main/resources/Spring/spring-mybatis.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://47.101.189.184:3306/db_novel?useUnicode=true&amp;characterEncoding=UTF-8</jdbc-url>
+    </data-source>
+  </component>
+</project>
